@@ -4,8 +4,7 @@ import { PlayVsRandom } from './Chessboard'
 function App() {
   return (
     <div>
-      My Chess AI App
-
+       First experiments with Chess AI
       <PlayVsRandom />
     </div>
   );
