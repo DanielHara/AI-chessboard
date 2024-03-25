@@ -1,4 +1,4 @@
-const API_URL = 'http://18.189.57.69/play/'
+const API_URL = 'http://chess.nicholasyukio.com.br/play/'
 
 export const getNextMove = (board, move, gameId) => {
     const payload = {
